@@ -5,16 +5,12 @@
   <thumbnail></thumbnail>
 </item>
 
-<dir
-<name>Live Streams / 24/7</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/live/live-streams/menu.xml</link>
-<thumbnail>https://s16.postimg.org/49rumcxpx/live.png</thumbnail>
-</dir>
+
 
 
 <dir>
 <name>Australia TV</name>
-<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/mainmenu.txt</link>
+<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/mainmenu.xml</link>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/e4/2d/e6e42de8-f301-4de3-7da6-fc5d0c204fa4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/246x0w.jpg</thumbnail>
 </dir>
 
