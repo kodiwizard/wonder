@@ -1,0 +1,881 @@
+
+
+	<title>ABC News</title>
+	<link>http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC News (Alt)</title>
+	<link>rtmp://cp81899.live.edgefcs.net/live/news24-med@28772</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573749/MEL1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENMEL1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573761/BRI1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENBRI1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573765/ADE1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENADE1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573769/PER1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENPER1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573804/CNS1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573793/MKY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573789/RKY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573779/SSC1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573810/GLD1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573786/TWB1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573798/TSV1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573783/WBY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573746/SYD2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573750/MEL2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573762/BRI2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573766/ADE2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573770/PER2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573805/CNS2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573794/MKY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573791/RKY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573780/SSC2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573787/TWB2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573799/TSV2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573784/WBY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573751/MEL3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573763/BRI3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573767/ADE3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573771/PER3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573806/CNS3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573797/MKY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573792/RKY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573781/SSC3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573788/TWB3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573800/TSV3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573785/WBY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573748/SYD6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573752/MEL6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573764/BRI6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573768/ADE6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573778/PER6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573814/QLD6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>RACING.COM</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250962-b/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250961-b/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250960-b/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250963-b/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ATV.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TVQ.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ADS.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2NEW.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETEN.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEATV.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETVQ.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEADS.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ONE</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,STREAM1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>SBS ONE</title>
+	<link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC News</title>
+	<link>http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC</title>
+	<link>https://abctvlivehls-lh.akamaihd.net/i/abc1_1@360323/master.m3u8?</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC Comedy</title>
+	<link>https://abctvlivehls-lh.akamaihd.net/i/abc2_1@124248/master.m3u8?</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC Kids</title>
+	<link>https://abctvlivehls-lh.akamaihd.net/i/abckids_1@327097/master.m3u8?</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ABC Me</title>
+	<link>https://abctvlivehls-lh.akamaihd.net/i/abc3_1@332134/master.m3u8?</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Re-added 29/01</title>
+	<link>https://freeview-fv.global.ssl.fastly.net/288/epgApi/getToken?region\\\\u003dMelbourne\\\\u0026network\\\\u003dABC\\\\u0026channel_id\\\\u003d101002210221\\\\u0026format\\\\u003dhtml\\\\u0026token\\\\u003dL$%23_rR7}K3IaB</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573749/MEL1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENMEL1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573761/BRI1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENBRI1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573765/ADE1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENADE1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573769/PER1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENPER1.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573804/CNS1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573793/MKY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573789/RKY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573779/SSC1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573810/GLD1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573786/TWB1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573798/TSV1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Seven</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573783/WBY1/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573746/SYD2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573750/MEL2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573762/BRI2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573766/ADE2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573770/PER2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573805/CNS2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573794/MKY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573791/RKY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573780/SSC2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573787/TWB2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573799/TSV2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7TWO</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573784/WBY2/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573751/MEL3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573763/BRI3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573767/ADE3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573771/PER3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573806/CNS3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573797/MKY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573792/RKY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573781/SSC3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573788/TWB3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573800/TSV3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7mate</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573785/WBY3/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573748/SYD6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573752/MEL6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573764/BRI6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573768/ADE6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573778/PER6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>7flix</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573814/QLD6/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>RACING.COM</title>
+	<link>https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250962-b/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250961-b/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250960-b/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Channel 9</title>
+	<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250963-b/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Gem</title>
+	<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Go!</title>
+	<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>9Life</title>
+	<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://yospace-cdn.networkten.com.au/video/sdten/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://yospace-cdn.networkten.com.au/video/sdatv/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://yospace-cdn.networkten.com.au/video/sdtvq/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://yospace-cdn.networkten.com.au/video/sdads/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ten</title>
+	<link>http://yospace-cdn.networkten.com.au/video/sdnew/master.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ATV.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>ELEVEN</title>
+	<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TVQ.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
