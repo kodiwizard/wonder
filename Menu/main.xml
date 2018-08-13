@@ -5,49 +5,16 @@
   <thumbnail></thumbnail>
 </item>
 
-<dir>
+<dir
 <name>Live Streams / 24/7</name>
 <link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/live/live-streams/menu.xml</link>
 <thumbnail>https://s16.postimg.org/49rumcxpx/live.png</thumbnail>
 </dir>
 
 
-
 <dir>
-<name>TV LAND</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/menu/menu.xml</link>
-<thumbnail>https://lh4.googleusercontent.com/-WRDPFhZuCY0/AAAAAAAAAAI/AAAAAAAAC6Y/wHgu9b0Op9g/s0-c-k-no-ns/photo.jpg</thumbnail>
+<name>Australia TV</name>
+<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/mainmenu.xml</link>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/e4/2d/e6e42de8-f301-4de3-7da6-fc5d0c204fa4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/246x0w.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>Movies</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/menu.xml</link>
-<animated_thumbnail>http://www.torneigiovanili.com/images/icons/movie.png</animated_thumbnail>
-<thumbnail>http://www.torneigiovanili.com/images/icons/movie.png</thumbnail>
-</dir>
-
-
-<dir>
-<name>TV Shows</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TV%20Shows/Menu/menu.xml</link>
-<animated_thumbnail>http://www.bonethefish.com/design_files/icons/tvs.png</animated_thumbnail>
-<thumbnail>http://www.bonethefish.com/design_files/icons/tvs.png</thumbnail>
-</dir>
-
-
-
-<dir>
-<name>Kingdom Streams</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/matt/menu/menu.xml</link>
-<animated_thumbnail>https://www.creativefan.com/important/cf/2012/01/tattoo-script/kingdomhearts.jpg</animated_thumbnail>
-<thumbnail>https://pbs.twimg.com/profile_images/905331703287136256/ELZtOw_O_400x400.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Simply Caz</name>
-<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/simplycaz/menu.xml</link>
-<animated_thumbnail>https://yt3.ggpht.com/-swGWsXGqbbA/AAAAAAAAAAI/AAAAAAAAAAA/GnwcHOLcYfo/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</animated_thumbnail>
-<thumbnail>https://yt3.ggpht.com/-swGWsXGqbbA/AAAAAAAAAAI/AAAAAAAAAAA/GnwcHOLcYfo/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</dir>
-</xml>
