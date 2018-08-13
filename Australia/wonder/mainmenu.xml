@@ -1,5 +1,11 @@
 <xml>
 
+<item>
+<title>Golf Channel HD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail></thumbnail>
+</item>
+
 <dir>
 <name>Seven Network</name>
 <thumbnail>https://imgur.com/vu8iaIB.png</thumbnail>
