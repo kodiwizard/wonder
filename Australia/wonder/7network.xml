@@ -1,0 +1,400 @@
+<item>
+<title>[COLOR red] *** Following Channels Maybe Geo Blocked And Will Only Work In Australia Or With A VPN***[/COLOR]</title>
+<link>http://kingdom.com</link>
+<thumbnail>https://imgur.com/L1mVSPz.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Adelaide</title>
+<link>
+<sublink>https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENADE1.m3u8</sublink>
+<sublink>https://adelaideseven-i.akamaihd.net/hls/live/263667-b/ADE1/master_1250.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Brisbane</title>
+<link>
+<sublink>https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENBRI1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>Seven-Hobart</title>
+<link>http://iptv.matthuisman.nz/au/Hobart/tv.101406030635.m3u8
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Melbourne</title>
+<link>
+<sublink>https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENMEL1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Perth</title>
+<link>
+<sublink>https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENPER1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+
+<item>
+<item>
+<title>Seven - Sydney</title>
+<link>
+<sublink>https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Cairns</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573804/CNS1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>Seven - Mackay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573793/MKY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Rockhampton</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573789/RKY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Sunshine Coast</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573779/SSC1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Gold Cost</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573810/GLD1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Toowoomba</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573786/TWB1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Townsville</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573798/TSV1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Seven - Wide Bay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573783/WBY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 TWO - Adelaide</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573766/ADE2/master.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+
+<item>
+<title>7 Two - Perth</title>
+<link>
+<sublink>http://iptv.matthuisman.nz/au/Perth/tv.101305060562.m3u8</sublink>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573770/PER2/master.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 TWO - Brisbane</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573762/BRI2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Two - Melbourne</title>
+<link>https://melbourneseven-i.akamaihd.net/hls/live/263659/MEL2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 TWO - Cairns</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573805/CNS2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 TWO - Mackay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573794/MKY2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 TWO - Rockhampton</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573791/RKY2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 TWO - Sunsinecoast</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573780/SSC2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 TWO - toowoomba</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573787/TWB2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 TWO - Townsville</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573799/TSV2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 TWO - Widebay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573784/WBY2/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+
+<item>
+<title>7 TWO - Sydney</title>
+<link>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8</sublink>
+<sublink>https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SYD7TWO.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+
+<item>
+<title>7 Mate - Adelaide</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573784/WBY2/master.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553.m3u8</sublink>
+</link>
+<thumbnail>https://imgur.com/lVz0BfW.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 mate - Melbourne</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573751/MEL3/master.m3u8</link>
+<thumbnail>https://imgur.com/lVz0BfW.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 mate - Brisbane</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573763/BRI3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Perth</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573771/PER3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Sydney Link 1</title>
+<link>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020523.m3u8</sublink>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+
+<item>
+<title>7 Mate - cairns</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573806/CNS3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 Mate - mackay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573797/MKY3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Rockhampton</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573792/RKY3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Sunshine goldcoast</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573781/SSC3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Toowooma</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573788/TWB3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - townville </title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573800/TSV3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Mate - Widebay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573785/WBY3/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893271/australia/7mate.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 Flix - Brisbane</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573764/BRI6/master.m3u8</link>
+<thumbnail>https://imgur.com/jPtTVch.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 Flix - Perth</title>
+<link>https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+
+<item>
+<title>7 Flix - Melbourne</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573752/MEL6/master.m3u8</link>
+<thumbnail>https://imgur.com/jPtTVch.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix - Sydney Link 1</title>
+<link>http://iptv.matthuisman.nz/au/Sydney/tv.101305020525.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix - Sydney Link 2</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573748/SYD6/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix - Adelaide</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573768/ADE6/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix - Adelaide Link 2</title>
+<link>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix - Perth</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573778/PER6/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>7 Flix Regional QLD</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573814/QLD6/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+<item>
+<title>Racing.com</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8</link>
+<thumbnail>https://imgur.com/2eGJA8B.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
