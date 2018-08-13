@@ -1,7 +1,7 @@
 <dir>
 <name>Seven Network</name>
 <thumbnail>https://imgur.com/vu8iaIB.png</thumbnail>
-<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/7network.xml</link>
+<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/7network.txt</link>
 <fanart>https://imgur.com/IZywnla.png</fanart>
 <info>Tv in Australia</info>
 </dir>
