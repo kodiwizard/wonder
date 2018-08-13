@@ -1,6 +1,6 @@
 
   <item>
-  <title>Golf Channel</title>
+  <title>Golf Channel HD</title>
   <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
   <thumbnail></thumbnail>
 </item>
@@ -10,7 +10,7 @@
 
 <dir>
 <name>Australia TV</name>
-<link>https://github.com/kodiwizard/wonder/raw/master/Australia/wonder/mainmenu.xml</link>
+<link>http://github.com/kodiwizard/wonder/raw/master/Australia/wonder/mainmenu.xml</link>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/e4/2d/e6e42de8-f301-4de3-7da6-fc5d0c204fa4/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/246x0w.jpg</thumbnail>
 </dir>
 
