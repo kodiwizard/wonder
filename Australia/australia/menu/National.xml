@@ -1,0 +1,130 @@
+
+<item>
+<title>ABC News 24</title>
+<link>
+<sublink>http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/index_750_av-p.m3u8?sd=10&rebase=on</sublink>
+<sublink>http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8</sublink>
+</link>
+<thumbnail>https://i.ytimg.com/vi/9uFXw7vKz14/maxresdefault_live.jpg</thumbnail>
+</item>
+
+<item>
+<title>ACCTV</title>
+<link>http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8</link>
+<thumbnail>http://australiapresents.org/wp-content/uploads/ACCTV-RGB-Logo-on-White41.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8</link>
+<thumbnail>https://b-i.forbesimg.com/tomiogeron/files/2013/06/Bloomberg-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CHANNEL 31 Melbourne</title>
+<link>	https://livestream.muvi.com/live/c31-tv-1501124096/index.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/31.png?attachauth=ANoY7cq-DYnd0llL1TGucpJSm1M8Edd499ZNuAdYEp4FbnEf4jiZuWIaLToH3n-fxBMjkpxt-ugHest9j2VbLFhTBdfrE3ENGCbtHmXy9VfmmRyMPUwChAO6qxJDQVh1ZU-Kmuo1pyzss36uNZ5xWji0Za9DbBOZ4kN3NCF-wG_EUZ0K-yIzsz_H6mxYRCQCe2_aGiMkQdlQ4fA72jhzMxI3z5X7AYVP-Q%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>EXPO</title>
+<link>http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ee/Tvsn_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fetch Movie Trailers</title>
+<link>http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8</link>
+<thumbnail>https://static.comparebroadband.com.au/images/Pictures/Picture_49.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Fox sport News</title>
+<link>https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Hillsong TV</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN20_delivery@394530/index_2528_av-p.m3u8?sd%3D10%26rebase%3Don&sa=D&ust=1498598634548000&usg=AFQjCNG9JJguvV8g7I9zBtVfUOjf1dbCVQ</link>
+<thumbnail>https://wordsfromoneheart.files.wordpress.com/2015/08/hillsonglogo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NITV</title>
+<link>http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/879534906434494464/kvlG6I0K.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Parliament TV (Federation Chamber)</title>
+<link>https://dps-live-hls.global.ssl.fastly.net/hls/277_FED105_18000_01.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_Arms_of_Australia.svg/1200px-Coat_of_Arms_of_Australia.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Parliament TV (House Of Representatives)</title>
+<link>http://livegateway-hls.switchmedia.asia/hls/277_HOR101_18000_01.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_of_the_Australian_House_of_Representatives.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Parliament TV (Senate)</title>
+<link>http://livegateway-hls.switchmedia.asia/hls/277_SEN102_18000_01.m3u8</link>
+<thumbnail>http://www.carbontracker.org/wp-content/uploads/2016/04/Australian-Senate-1000x666-300x199.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SBS HD - Sydney</title>
+<link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/60/Screen_Shot_2015-07-18_at_2.54.10_pm.png/revision/latest?cb=20160428141625</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>SBS ONE</title>
+<link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+<thumbnail>https://www.marketingmag.com.au/wp-content/uploads/2012/09/SBS-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SBS Food network</title>
+<link>http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/ca/SBS_Food_Network_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SBS Viceland</title>
+<link>http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+<thumbnail>http://www.mediaweek.com.au/content/uploads/2016/10/SBS-Viceland-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Talking Lifestyle</title>
+<link>https://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://is1.mzstatic.com/image/thumb/Purple111/v4/fb/28/13/fb28132d-ab6f-7baf-15aa-1a7fc5abc85d/source/1200x630bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ONE</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,STREAM1.m3u8</link>
+<thumbnail>https://d1pet9gxylz2tx.cloudfront.net/uploads/2016/07/one-channel-logo.png</thumbnail>
+<fanart></fanart>
+</item>

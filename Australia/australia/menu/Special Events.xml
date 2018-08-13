@@ -1,0 +1,17 @@
+<item>
+<title>[COLOR red] ***Following Tv Channels Maybe Geo Blocked To Australia***[/COLOR]</title>
+<link>https://www.stteams.m3u8</link>
+<thumbnail>https://olimex.files.wordpress.com/2014/04/tv.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Sydney</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master.m3u8|X-Forwarded-For=52.62.247.239</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8|X-Forwarded-For=52.62.247.239</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>

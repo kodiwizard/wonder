@@ -1,0 +1,48 @@
+<item>
+<title>[COLOR red] *** FEEDBACK NEEDED For The Following Channels < Twitter @teamxkodi > ***[/COLOR]</title>
+<link></link>
+<thumbnail>http://s3.amazonaws.com/vnn-aws-sites/45/files/2016/09/d6be2ebadfc3ec30-Attention-Read-First.png</thumbnail>
+<fanart>https://cdn2.benzinga.com/files/imagecache/story_image_685x375C/images/story/2012/banner-1165973_1920_0.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] *** Following Channels Are RADIO CHANNELS In Australia ***[/COLOR]</title>
+<link>https://www.stteams.m3u8</link>
+<thumbnail>http://seanbuckley.net.au/wp-content/uploads/2015/07/Sean-Buckley-Ultra-Tune-1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]2GB RADIO(TV) Test[/COLOR]</title>
+<link>http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/index_56_a-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.2gb.com/wp-content/themes/2gb/assets/img/comingsoon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]2GB RADIO(TV) Test HD[/COLOR]</title>
+<link>http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/index_56_a-p.m3u8?hd=10&rebase=on</link>
+<thumbnail>http://www.2gb.com/wp-content/themes/2gb/assets/img/comingsoon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red] ***Following Tv Channels Maybe Geo Blocked To Australia***[/COLOR]</title>
+<link>https://www.stteams.m3u8</link>
+<thumbnail>https://olimex.files.wordpress.com/2014/04/tv.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Sydney</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master.m3u8|X-Forwarded-For=52.62.247.239</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8|X-Forwarded-For=52.62.247.239</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart>https://imgur.com/IZywnla.png</fanart>
+</item>
+
+

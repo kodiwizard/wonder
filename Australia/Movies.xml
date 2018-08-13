@@ -1,0 +1,13 @@
+<dir>
+<name>Latest Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/2017.xml</link>
+<animated_thumbnail>http://static.tumblr.com/79502e42ff70683b83006bd75fce725e/5lvda0a/CzUmggvxw/tumblr_static_moviesicon.jpg</animated_thumbnail>
+<thumbnail>http://static.tumblr.com/79502e42ff70683b83006bd75fce725e/5lvda0a/CzUmggvxw/tumblr_static_moviesicon.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Boxsets</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/movies/boxsets/menu/menu.xml</link>
+<animated_thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</animated_thumbnail>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
+</dir>

@@ -1,0 +1,84 @@
+<item>
+<title>Seven</title>
+<link>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENADE1.m3u8</sublink>
+<sublink>https://adelaideseven-i.akamaihd.net/hls/live/263667-b/ADE1/master_1250.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+</item>
+
+<item>
+<title>7 TWO - Adelaide</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573766/ADE2/master.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/australia/7TWO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>7 Mate - Adelaide</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573784/WBY2/master.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553.m3u8</sublink>
+</link>
+<thumbnail>https://imgur.com/lVz0BfW.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>7 Flix - Adelaide</title>
+<link>
+<sublink>https://live-sevennetwork.akamaized.net/hls/live/573768/ADE6/master.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1456537501704/australia/7flix.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>Nine</title>
+<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250960-b/adelaide/master.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9.png?attachauth=ANoY7cp9lXxaDC6LN6gRUuzhJ6ePtMMa-dqtEgc2hZWZLG0gWvnO1ZZmD2KhSqoW_C6B5u8myrhcpv_u4Bn3x3uDdO_6fGeLAC2jbEt-K9pTZ2z5VXQUYsr7jIbHQR6aeOTGST0RF6tEdsDnrDP-QcZHu9vRNnJ8D17nDraHF-yXmeWr7gtZHrSXKq_pLjm5FW8M8TsM9TG9TEBM0HaWx95ZIBaPFs7bsA%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>9 Gem</title>
+<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Gem.png?attachauth=ANoY7cpF7xKHA4G-q6Tni9YlouHox2ikTPJ4F8mDRSP36KGr69yt_IoKyd0lowBByOhPw9RyXuRr5083p0RZvqv8CmWCIRs_u6QMR6J08juBImqLon9xTKgGuk_q0fSmXJHyZC2yfAsfWidVGYa0fjQc0r-cPK-sQuAbcE8Sd7X-4w2ZcuK6-14kXhKtNr6jFy6Qv2OyUdrfqIarE6xPmlxdYcTfYlE4vg%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>9 GO.</title>
+<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Go.png?attachauth=ANoY7cq6jA9sUOpxt-P9J--h3I4ZKEwN70SlDKMqok02IiWNc1cES84TqF-c7KDMjwrKSaX3NPQ42frTOsLe1NWUXzmlWOJnvgKmOFbsF5m77wZmB4MHklFfgXBmi6hdYmuGkHrO6C2T8KiplJa-pseObXRMhDuvOLeaMUhtqy3H39L6QV_VqVIXXUjGATVKENINPdFIYN_UsYCnCohxPwbk-Wc41blc0Q%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>9 life</title>
+<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Life.png?attachauth=ANoY7cpc4J2dkgN2qncL-vEtv5Nl6q8d3lw0mZmT5lV9-vayaIUY7O95En86mgilF2uekjTaQp67AIH0yDsP3d4Ku2_gpg8yvw67xHPY8uw7YE1HqKn9_5yfGhb1BiSpDQWcRYCk-cW0stIh7cMwcLSNkOJ9uGdrr5WnC2O3nlZnW7h56kg_nGUPg9D3aCSHa49-uQgWUhAfxV2ZImAAVR6BKcFpnfIArA%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ONE(When live)</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEADS.m3u8</link>
+<thumbnail>https://d1pet9gxylz2tx.cloudfront.net/uploads/2016/07/one-channel-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ELEVEN(When live)</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ADS.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Eleven_logo.svg/1200px-Eleven_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>

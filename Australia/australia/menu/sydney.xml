@@ -1,0 +1,91 @@
+<item>
+<title>ABC ME Sydney</title>
+<link>http://iptv.matthuisman.nz/au/Sydney/tv.101002210224</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/1200px-ABC_ME_logo.svg.png</thumbnail>
+</item>
+
+
+<item>
+<title>Seven - Sydney</title>
+<link>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>7 TWO..</title>
+<link>
+<sublink>https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master.m3u8/sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SYD7TWO.m3u8</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/SevenTwo.svg/1200px-SevenTwo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>7 Mate</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573747/SYD3/master.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/7mate.png?attachauth=ANoY7cpUPvM_zu5T27hdTGt9cAIQG3TgVr22tcFP0ckGQk1zpYY6OpSLXUGuUKF1y3T9ndGzeYThAxugn3mbaWCcLJ2291kZPXWYhrRFPH6UlQzoelT2iE7MoB6r0n_ccDMuusPBWbDfB2w62oIy402oeLoXm_yz4V7f9kgFAEo4-QmN5jGYbziROf3i8gFlNCYNFcfc5fhp48NmMOwSZ4kV0MlqemfwyA%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Nine</title>
+<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9.png?attachauth=ANoY7comGPejRofUewMLDU6VGizQLs-IrCZSZDIqbRBQd1HAeX6ztAw5EatalskTa2ephqjR5-4LJsUbKth_mvCFQVhvl6UM7445T0DpveQFillHcZB-QkFZnOdPgkHQQ1pB3Lfqg92owbGI-qt5FtgRP4XLXWOoLE_kJUaFZPJ1SMV1MpDwcFMydh_EJk5SPHt8TOED8ibPtYEQZMh48cHHaDXiQQASwg%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>9 Gem</title>
+<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Gem.png?attachauth=ANoY7crbxWEqDttaD5DUEdtIOadtFhQJgNA4nc0XC2tA2CKcH2YRSS2m51Ul8I8MBGkbpC5CB3ukWo1KdfNMA1S7Xwnp6mTkvHAlagHVoc4hr7JFWtVHB6kpiKKl-FbJCyw2tuFDOnWPqD_NEOhg4T66reOOqkWd9jL87Rod52LXQa9NaYm2nyJKtyh2zd5MpiPiwgSjwyhVDl47Hz43faLOzRJzLgCOCQ%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>9 GO</title>
+<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Go.png?attachauth=ANoY7crXedFIOYEx2BJIAj1n54Ci4tP8V36Xy7B1OsgmACpcmochN78SA5auG6gjNZ6Z8oCoCBN30zDPtFxK99jmt1MgulcVJ2EFoTb-keywS_7VaasVVxP-DA_w6Z-klQ0GKsCXXcLXzeNmpTruWJ-sr6vfI4qnd8R_Y1wH5h8ojSiwdNghqbVaNVDZEfyEpxatllNrCdq4DQ-FJraWLdeS7UXF9WFcyA%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>9 life</title>
+<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master1.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/9Life.png?attachauth=ANoY7cp1echLeRYDd0JA-YYHbTPXYefCXdPmUTqPWYHZ5Bzp-_R6K4FbgeIcyCu2AfVcjcuxgttaRcoRHNNFsnRICgfzDw2J1MLmPFqhAB3qeG3V_oGhe34e76ql9bKHhxQ7siY4QuBdHQo17mI0bVMzJj2hVmU8vFmnPZdMowK07gAy0Sf-Zh9zz9CxnsIzTDORP2Zo05IKCVXuOf5Ju6k86KM2Ji0Euw%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ten (When live)</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8</link>
+<thumbnail>https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/ten.png?attachauth=ANoY7co3fMsAH9RXXKpRLlo2prwVnDgCytd32EbPdwaCGcbQIALUKPQuv3Y3gmQRC6VpcOSbPpITDO6RLg0a1kZe2Sj5PepZxXgBj8_PxWBAKsUOx0mYmVOi2YslhW8aRZ2CHU2cgFugTaouo5dT7RFdEPpVXsHasq_wFY5cR5gZT85hZ79mhSi9Vw2iBQMM44RDZK-Sb8MVkFnezhHhEjbs3iaH1LtaHg%3D%3D&attredirects=0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ELEVEN(When live)</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Eleven_logo.svg/1200px-Eleven_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ONE(When live)</title>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETEN.m3u8</link>
+<thumbnail>https://d1pet9gxylz2tx.cloudfront.net/uploads/2016/07/one-channel-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+

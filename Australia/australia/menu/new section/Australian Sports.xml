@@ -1,0 +1,87 @@
+<item>
+<title>[COLOR red] Channels below are geoblocked [/COLOR]</title>
+<link>http://www.thomas.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] Racing [/COLOR]</title>
+<link>http://www.thomas.m3u8</link>
+<thumbnail>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAd-AAAAJDMyMmU4ODU2LWE4ZjMtNGZjNy1hZTJlLWFiY2U5ZGUwM2I1MQ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>Sky Racing 1</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8|X-Forwarded-For=101.100.88.88</link>
+<thumbnail>http://payload304.cargocollective.com/1/16/540822/8383100/Sky1_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky Racing 2</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8|X-Forwarded-For=101.100.88.88</link>
+<thumbnail>http://payload304.cargocollective.com/1/16/540822/8383100/Sky2_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Racing.com </title>
+<link>https://melbourneseven-i.akamaihd.net/hls/live/263815-b/RAC/master_1000.m3u8|X-Forwarded-For=101.100.88.88</link>
+<thumbnail>http://is2.mzstatic.com/image/thumb/Purple127/v4/a4/06/f8/a406f814-7697-43f1-be1e-27a7f44daac0/source/175x175bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Trackside</title>
+<link>http://srtrackside-i.akamaihd.net/hls/live/219672/SkyR_live_ios_tracks/Tracks.m3u8</link>
+<thumbnail>https://tabtrackside.com.au/wp-content/themes/twenty4/images/trackside-logo-footer.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TABTrackside (HD)</title>
+<link>rtmp://cp319573.live.edgefcs.net/live/SkyR_live_rtmp_track_1_1080@3767</link>
+<thumbnail>https://tabtrackside.com.au/wp-content/themes/twenty4/images/trackside-logo-footer.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red] End of geoblocked channels[/COLOR]</title>
+<link>http://www.thomas.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Thoroughbred Central ( Non-geo block) </title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8</link>
+<thumbnail>https://pbs.twimg.com/media/CAV0gHgUsAAWoVS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue] Supercars [/COLOR]</title>
+<link>http://www.thomas.m3u8</link>
+<thumbnail>https://kyjmbyw4vg-flywheel.netdna-ssl.com/wp-content/uploads/2015/10/v8_supercars_2015_logo_01-1203-mc-819x819.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>V8 Racing</title>
+<link>
+<sublink>http://103.18.40.132:8080</sublink>
+<sublink>http://103.18.40.132:8081</sublink>
+<sublink>http://103.18.40.132:8082</sublink>
+<sublink>http://103.18.40.132:8084</sublink>
+</link>
+<thumbnail>http://www.campaignbrief.com/assets_c/2014/12/2%20-%20Hulsbosch%20-%20V8_Supercars-thumb-400x225-171591.jpg</thumbnail>
+</item>
