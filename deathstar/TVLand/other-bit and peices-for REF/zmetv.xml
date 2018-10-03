@@ -1,0 +1,52 @@
+<plugin>
+<name>[COLOR gold][B]UniTV sports[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=53&name=UniTV%20sports&url=sss</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]Pi sports[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=71&name=Pi%20sports&url=sss</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]Sport365.live[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live%20%5BGeoBlocked%5D&url=sss</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]UKTVNow[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=57&name=UKTVNow%20%5BLimited%20Channels%5D&url=sss&</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]PV2 Sports[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=36&name=PV2%20Sports&url=zemsports</link>
+<thumbnail></thumbnail>
+</plugin>
+<plugin>
+<name>[COLOR gold][B]StreamHD[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=75&name=StreamHD&url=sss</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]HDfree[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=77&name=HDfree&url=sss</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR gold][B]Mama HD[/B][/COLOR] [COLOR red][ZEM][/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=79&name=Mama%20HD&url=http%3A%2F%2Fmamahd.com%2F&</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>KIDS TV</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=92&amp;name=Kids%20tv&amp;url=40</link>
+<thumbnail></thumbnail>
+</plugin>

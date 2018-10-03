@@ -1,0 +1,384 @@
+ <item>
+<title>MAMA HD Streams</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
+<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
+<thumbnail>[makelist.param2]</thumbnail>
+<referer>http://mamahd.com/</referer>
+
+]]></listrepeat>
+<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
+<page>http://mamahd.com/index.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lightblue]ESPN USA[/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/espn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/espn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+</item>
+
+
+
+ 
+
+<item>
+<title>[COLOR lightblue]BT SPORT 2[/COLOR](UK) [COLOR gray][I]ilive[/I][/COLOR]</title>
+<link>$doregex[url]</link><regex>	<name>url</name>
+
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68721',False,False,'http://vipracing.info/')</expres>
+	<page></page></regex></item>
+
+
+
+
+<item>
+<title>Sky Sports 1</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+
+</item>
+ 
+ <item>
+<title>Sky Sports 1 </title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 1".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</page>
+</regex>
+</item>
+
+ 
+ 
+  
+<item>
+<title>Sky Sports 2</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+
+</item>
+ 
+
+<item>
+<title>Sky Sports 2 UK</title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-2-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-2-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 2".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-2-live-stream</page>
+</regex>
+</item>
+ 
+ <item>
+<title>Sky Sports 3</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+
+</item>
+ 
+
+<item>
+<title>Sky Sports 3 </title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-3-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-3-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 3".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-3-live-stream</page>
+</regex>
+</item>
+ 
+  <item>
+<title>Sky Sports 4</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+
+</item>
+ 
+
+<item>
+<title>Sky Sports 4 </title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-4-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-4-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 4".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-4-live-stream</page>
+</regex>
+</item>
+ 
+  <item>
+<title>Sky Sports 5</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+
+</item>
+
+
+
+<item>
+<title>Sky Sports 5 UK</title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-5-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+  
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-5-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 5".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-5-live-stream</page>
+</regex>
+</item>
+
+
+ 

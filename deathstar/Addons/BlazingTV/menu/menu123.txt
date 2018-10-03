@@ -1,0 +1,98 @@
+<streamingInfos>
+
+
+
+
+<streaminginfo>
+	<cname></cname>
+	<item>
+	<title>| [COLOR white]Blazing TV By Team X[/COLOR] |</title>
+<link>ignore</link>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<item>
+<title>[COLOR white]Sports Devil[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+</item>
+
+
+<streaminginfo>
+	<cname></cname>
+	<item>
+	<title>Premium TV 1</title>
+<link>ignore</link>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+   <externallink>http://93.190.142.128:5454/get.php?username=bradley&amp;password=bradley&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+	
+
+
+
+
+	<item>
+	<title>Stallion TV</title>
+<link>ignore</link>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+   <externallink>http://primetv.gq:10/get.php?username=Stallion&amp;password=Stallion&amp;type=m3u_plus&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+
+
+
+
+<item>
+<title> [COLOR white][B]IPTV Sat Daily IPTV Lists[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR lime] [makelist2.param2][/COLOR][/B]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR skyblue]Daily IPTV Lists[makelist.param1][/COLOR][/B]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[B][COLOR yellow]Blazing Mode[/COLOR][/B] [makelist.param1]  </link>
+ <thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+</item>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Daily IPTV 1</title>
+<link>ignore</link>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+   <externallink>http://autoiptv.net/playlist.php$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+</streamingInfos>

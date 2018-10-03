@@ -1,0 +1,37 @@
+
+<dir>
+<name>Disney Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/Kid%20Movies/Disney/movies.xml</link>
+<animated_thumbnail>https://d1zx8q7pwea250.cloudfront.net/wp-content/uploads/2015/08/disney-icon.png</animated_thumbnail>
+<thumbnail>https://d1zx8q7pwea250.cloudfront.net/wp-content/uploads/2015/08/disney-icon.png</thumbnail>
+</dir>
+
+
+
+
+<dir>
+   <title>Pixar Movie Collection.</title>
+   <trakt>https://api.trakt.tv/users/r1chardtm/lists/the-pixar-collection/items</trakt>
+   <thumbnail>http://www.chipandco.com/wp-content/uploads/2010/02/Pixar-Logo-web2.jpg></thumbnail>
+   <fanart></fanart>
+</dir>
+
+<dir>
+  <title>My lists</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
+
+<dir>
+  <title>My Liked Lists</title>
+  <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+</dir>
+
+<dir>
+  <title>Reddit Top 250 (2017 Edition)</title>
+  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+</dir>
+
+<dir>
+  <title>Rotten Tomatoes: Best of 2017</title>
+  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
+</dir>

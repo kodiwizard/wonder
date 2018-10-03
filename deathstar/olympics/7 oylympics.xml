@@ -1,0 +1,125 @@
+<item>
+<title>[COLOR red] *** Following Channels Maybe Geo Blocked And Will Only Work In Australia Or With A VPN***[/COLOR]</title>
+<link>http://kingdom.com</link>
+<thumbnail>https://imgur.com/L1mVSPz.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Adelaide</title>
+<link>
+<sublink>https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENADE1.m3u8</sublink>
+<sublink>https://adelaideseven-i.akamaihd.net/hls/live/263667-b/ADE1/master_1250.m3u8</sublink>
+<sublink>http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Brisbane</title>
+<link>
+<sublink>https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENBRI1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven-Hobart</title>
+<link>http://iptv.matthuisman.nz/au/Hobart/tv.101305030530.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Melbourne</title>
+<link>
+<sublink>http://iptv.matthuisman.nz/au/Melbourne/tv.101305030530.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENMEL1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Seven - Perth</title>
+<link>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENPER1.m3u8</sublink>
+<sublink>https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Seven - Sydney</title>
+<link>
+<sublink>http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8</sublink>
+<sublink>https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8</sublink>
+<sublink>http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8</sublink>
+</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Cairns</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573804/CNS1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Seven - Mackay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573793/MKY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Rockhampton</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573789/RKY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Sunshine Coast</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573779/SSC1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Gold Cost</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573810/GLD1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Toowoomba</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573786/TWB1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Townsville</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573798/TSV1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Seven - Wide Bay</title>
+<link>https://live-sevennetwork.akamaized.net/hls/live/573783/WBY1/master.m3u8</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+<fanart></fanart>
+</item>

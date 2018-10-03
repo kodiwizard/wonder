@@ -1,0 +1,51 @@
+name="--------------------Bonus IPTV.--------------------"
+stream="https://rewind.e-cast.co.nz/get1hr.m3u8?channel_id=10&t=E.ed74d49c9665998bf1b65456ea6443a2.1508295723.d7103e461a4f006e95333d96618f186fa34677df"
+
+
+name="NZ Channel's"
+stream="http://media.bia4music.com/"
+
+
+name="TVNZ One"
+stream="http://iptv.matthuisman.nz/nz/tv.9|X-Forwarded-For=202.89.4.222"
+
+name="TVNZ Two"
+stream="http://iptv.matthuisman.nz/nz/tv.10|X-Forwarded-For=202.89.4.222"
+
+name="TVNZ Three"
+stream="http://iptv.matthuisman.nz/nz/tv.11|X-Forwarded-For=202.89.4.222"
+
+name="Bravo"
+stream="http://iptv.matthuisman.nz/nz/tv.12|X-Forwarded-For=202.89.4.222"
+
+name="The Edge TV"
+stream="http://iptv.matthuisman.nz/nz/tv.51|X-Forwarded-For=202.89.4.2222"
+
+name="Duke"
+stream="http://iptv.matthuisman.nz/nz/tv.55|X-Forwarded-For=202.89.4.2222"
+
+name="Al Jazeera"
+stream="http://iptv.matthuisman.nz/nz/tv.46|X-Forwarded-For=202.89.4.222"
+
+name="TVSN Shopping"
+stream="http://iptv.matthuisman.nz/nz/tv.45|X-Forwarded-For=202.89.4.222"
+
+name="Shine TV"
+stream="http://iptv.matthuisman.nz/nz/tv.7|X-Forwarded-For=202.89.4.222"
+
+name="Firstlight"
+stream="rtmp://streamer1.streamhost.org/salive/GMIFLNL"
+
+
+name="CTV 8"
+stream="http://iptv.matthuisman.nz/nz/tv.21|X-Forwarded-For=202.89.4.222"
+
+
+name="Parliament TV"
+stream="http://iptv.matthuisman.nz/nz/tv.18|X-Forwarded-For=202.89.4.222"
+
+name="Red Bull TV"
+stream="http://iptv.matthuisman.nz/nz/tv.redbull.tv|X-Forwarded-For=202.89.4.222"
+
+name="Movie Test"
+stream="http://dl.dlfile.pro/2/24%20Legacy/24.Legacy.S01E01.480p.mkv"

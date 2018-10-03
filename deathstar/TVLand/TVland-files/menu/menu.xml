@@ -1,0 +1,40 @@
+<dir>
+<name>Australian Live TV</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/matt/australia/menu/menu.xml</link>
+<thumbnail>https://imgur.com/B16bkNw.png</thumbnail>
+</dir>
+
+
+<dir>
+<name>Freeview New Zealand</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/freeview-NZ.xml</link>
+<thumbnail>https://s29.postimg.org/h5pjjr3s7/icon.jpg</thumbnail>
+</dir>
+
+<plugin>
+<name>TV 3 NZ VOD</name>
+<link>plugin://plugin.video.NZtv3vod</link>
+<thumbnail>https://s16.postimg.org/ucz822aid/Three.png</thumbnail>
+</plugin>
+
+<dir>
+<name>United States (USA)</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/unitedstates.xml</link>
+<thumbnail>http://s.csw.ru/images2/2017/01/object258110/usa.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>United Kingdom (UK)</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/UK.xml</link>
+<thumbnail>http://www.peakestravelelite.co.uk/wp-content/uploads/sites/4/2013/10/UK.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Sports (All Countires)</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/Sports%20(all).xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1690900974/WWS_Logo.jpg</thumbnail>
+</dir>
+
+
+
+

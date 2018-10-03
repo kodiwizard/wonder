@@ -1,0 +1,114 @@
+ <dir>
+    <title>Latest Movies (2018)</title>
+    <tmdb>year/movies/2018</tmdb>
+    <thumbnail>http://www.pvhc.net/img31/cokynqswwrfzjczijsry.png</thumbnail>
+  </dir>
+
+
+<dir>
+   <title>Box Office Movies</title>
+   <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+   <thumbnail></thumbnail>
+   <fanart>https://cdn-images-1.medium.com/max/1600/1*sz-qvGm-sHeilqKDe16kug.png</fanart>
+</dir>
+
+
+<dir>
+    <title>Movie Actors</title>
+    <link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TV%20Shows/xmls/actors.xml</link>
+    <thumbnail>https://png.icons8.com/color/1600/actors.png</thumbnail>
+  </dir>
+
+<dir>
+    <title>Movie Actresses</title>
+    <link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TV%20Shows/xmls/actress.xml</link>
+    <thumbnail>http://www.pvhc.net/img31/cokynqswwrfzjczijsry.png</thumbnail>
+  </dir>
+
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TV%20Shows/xmls/genre_movies.xml</link>
+    <thumbnail>http://www.pvhc.net/img31/cokynqswwrfzjczijsry.png</thumbnail>
+  </dir>
+  
+<dir>
+    <title>Movie Years</title>
+    <link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TV%20Shows/xmls/movie-years.xml</link>
+    <thumbnail>http://www.pvhc.net/img31/cokynqswwrfzjczijsry.png</thumbnail>
+  </dir>
+
+ <dir>
+    <title>Action Movies</title>
+    <tmdb>genre/28-action/movie</tmdb>
+  </dir>
+
+
+
+
+<dir>
+<name>Christmas Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/other/christmas/Movies-shows/Christmasmovies.xml</link>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/vector-christmas/256/Christmas-Lights-icon.png</thumbnail>
+</dir>
+
+<dir>
+<name>4k Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/mitch/4k%20movies/menu.xml</link>
+<thumbnail>http://www.directvdeals.com/resources/wp-content/uploads/2016/03/icon_4K_ultraHD_4C_M11_.png</thumbnail>
+<fanart>http://www.directvdeals.com/resources/wp-content/uploads/2016/03/icon_4K_ultraHD_4C_M11_.png</fanart>
+</dir>
+
+<dir>
+<name>Kiwi (New Zealand) Movie's</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/kiwifire/movies/kiwi%20movies/menu.xml</link>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/multimedia/100/play_movie_3-256.png</thumbnail>
+</dir>
+
+
+<dir>
+<name>Boxsets</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/movies/boxsets/menu/menu.xml</link>
+<animated_thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</animated_thumbnail>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
+</dir>
+
+
+
+
+<dir>
+<name>Kids Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/Kid%20Movies/menu/menu.xml</link>
+<animated_thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</animated_thumbnail>
+<thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
+</dir>
+
+
+
+
+<dir>
+<name>Hallmark Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/movies/hallmark-movies/movies.xml</link>
+<animated_thumbnail>http://cdn.wallpapersafari.com/65/52/jteQWV.gif</animated_thumbnail>
+<thumbnail>http://cdn.wallpapersafari.com/65/52/jteQWV.gif</thumbnail>
+</dir>
+
+<dir>
+<name>Western Movies</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/movies/movies/western%20movies/menu.xml</link>
+<animated_thumbnail>http://www.filmsite.org/images/westerns-genre.jpg</animated_thumbnail>
+<thumbnail>https://wallpaperscraft.com/image/fallout_new_vegas_wasteland_loner_road_hero_92839_2560x1440.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Trakt Portal</name>
+<link>https://raw.githubusercontent.com/tdbnz123/Community-Playlist-new/master/Trakt.xml</link>
+<thumbnail>https://seo-michael.co.uk/content/images/2016/08/trakt.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Search Movies / TV Shows / People</title>
+<tmdb>search</tmdb>
+<thumbnail>https://lh3.googleusercontent.com/V19NPGG-JqGQWa3A8i6xsgT-g4oa70pEjrF4YwquEpdQZGMDIcijRUlcn3-93kW-5A</thumbnail>
+<fanart></fanart>
+</dir>

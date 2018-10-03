@@ -1,0 +1,18 @@
+
+
+<plugin>
+<title>Arawak TV</title>
+<link>plugin://plugin.video.ArawakTV</link>
+<thumbnail>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/simplycaz/arawaktv.png</thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>
+
+
+<plugin>
+<title>Christian TV</title>
+<link>plugin://plugin.video.ChristianTV</link>
+<thumbnail>https://github.com/tdbnz123/Community-Playlist-new/raw/master/Playlisters/simplycaz/Christiantv.png</thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>

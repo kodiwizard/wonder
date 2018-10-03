@@ -1,0 +1,103 @@
+<item>
+<title>Premier Sports</title>
+<link>http://bit.ly/FixturesPREMIER</link>
+<thumbnail>http://www.fifeflyers.co.uk/images/Logos/PREMIERSPORT.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>V8 Racing</title>
+<link>
+<sublink>http://motorsport-eu.cf:8080/</sublink>
+<sublink>http://103.18.40.132:8080</sublink>
+<sublink>http://103.18.40.132:8081</sublink>
+<sublink>http://103.18.40.132:8082</sublink>
+<sublink>http://103.18.40.132:8084</sublink>
+</link>
+<thumbnail>http://www.campaignbrief.com/assets_c/2014/12/2%20-%20Hulsbosch%20-%20V8_Supercars-thumb-400x225-171591.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Fox Sport 506 - V8SC Live Racing when available</title>
+<link>
+<sublink>http://motorsport.hopto.org:8080/</sublink>
+</link>
+<thumbnail>https://s19.postimg.org/5uq7gcoyb/Bathurst.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/vi/vi/3585.ts</link>
+</item>
+
+<item>
+<title>Chelsea TV UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/vi/vi/1990.ts</link>
+</item>
+
+<item>
+<title>Liverpool FC TV UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/vi/vi/3568.ts</link>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>Motors TV UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/vi/vi/4009.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>MLB Network</title>
+<link>
+<sublink>http://163.172.81.33:1234/live/www.iptvrestream.net/eeGY0TLlU6/321.ts|User-Agent=iptvrestream.net</sublink>
+</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png</thumbnail>
+</item>
+
+<item>
+<title>NHL Network</title>
+<link>
+<sublink>http://163.172.81.33:1234/live/www.iptvrestream.net/eeGY0TLlU6/319.ts|User-Agent=iptvrestream.net</sublink>
+</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uvrxut1433429052.png</thumbnail>
+</item>
+
+<item>
+<title>Red Bull TV</title>
+<link>
+<sublink>https://elementaldelta.redbull.tv/diglinear.m3u8</sublink>
+</link>
+<thumbnail>http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2_720.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>Golf Channel</title>
+<link>
+<sublink>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</sublink>
+<sublink>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</sublink>
+</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+</item>

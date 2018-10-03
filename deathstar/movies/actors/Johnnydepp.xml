@@ -1,0 +1,291 @@
+
+<!-- list of movies 
+http://www.imdb.com/name/nm0000136/
+ -->
+
+<item>
+        <title>A Nightmare on Elm Street (1984)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0087800</imdb>
+                <title>A Nightmare on Elm Street</title>
+                <year>1984</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzFjZmM1ODgtMDBkMS00NWFlLTg2YmUtZjc3ZTgxMjE1OTI2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX650_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzFjZmM1ODgtMDBkMS00NWFlLTg2YmUtZjc3ZTgxMjE1OTI2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX650_AL_.jpg</fanart>
+</item>
+
+<item>
+        <title>Dummies (1985)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3494942</imdb>
+                <title>Dummies</title>
+                <year>1985</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA1Mjk4OTctNThiNS00ZDQxLWI3ZDEtYzkyNTlkYTAwNDU3XkEyXkFqcGdeQXVyNjc5ODU3MTA@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA1Mjk4OTctNThiNS00ZDQxLWI3ZDEtYzkyNTlkYTAwNDU3XkEyXkFqcGdeQXVyNjc5ODU3MTA@._V1_.jpg</fanart>
+</item>
+
+<item>
+        <title>Private Resort (1985)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0089839</imdb>
+                <title>Private Resort</title>
+                <year>1985</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MDk4NzQxOF5BMl5BanBnXkFtZTcwMjIzODEyMQ@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MDk4NzQxOF5BMl5BanBnXkFtZTcwMjIzODEyMQ@@._V1_.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>Slow Burn (1986)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0091972</imdb>
+                <title>Slow Burn</title>
+                <year>1986</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwMjk4MV5BMl5BanBnXkFtZTcwMDEwOTAwMQ@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NzQwMjk4MV5BMl5BanBnXkFtZTcwMDEwOTAwMQ@@._V1_.jpg</fanart>
+</item>
+
+<item>
+        <title>Platoon (1986)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0091763</imdb>
+                <title>Platoon</title>
+                <year>1986</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmJlOTE1ZTgtODdmNC00NmZhLThlZDYtNTllMmIyOTIwN2EwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmJlOTE1ZTgtODdmNC00NmZhLThlZDYtNTllMmIyOTIwN2EwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Cry-Baby (1990)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0099329</imdb>
+                <title>Cry-Baby</title>
+                <year>1990</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODA5OTc3Ml5BMl5BanBnXkFtZTgwMTgxNTYxMTE@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODA5OTc3Ml5BMl5BanBnXkFtZTgwMTgxNTYxMTE@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Edward Scissorhands (1990)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0099487</imdb>
+                <title>Edward Scissorhands</title>
+                <year>1990</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTYyZWJjMGUtNGJiYy00ZWJhLWEwZTMtMmYyMzRhOTJmZGVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX674_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOTYyZWJjMGUtNGJiYy00ZWJhLWEwZTMtMmYyMzRhOTJmZGVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX674_AL_.jpg</fanart>
+</item>
+
+<item>
+        <title>Freddy's Dead: The Final Nightmare (1991)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0101917</imdb>
+                <title>Freddy's Dead: The Final Nightmare</title>
+                <year>1991</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ3MTdiYjQtZmU1NC00NmQ5LTg2YTMtYWI0NjA5MzUwZTFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ3MTdiYjQtZmU1NC00NmQ5LTg2YTMtYWI0NjA5MzUwZTFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg</fanart>
+</item>
+
+<item>
+        <title>Arizona Dream (1993)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0106307</imdb>
+                <title>Arizona Dream</title>
+                <year>1993</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NjkxMzUzM15BMl5BanBnXkFtZTcwNzc0MzMzMQ@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NjkxMzUzM15BMl5BanBnXkFtZTcwNzc0MzMzMQ@@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Benny & Joon (1993)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0106387</imdb>
+                <title>Benny & Joon</title>
+                <year>1993</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzkyNjIzMl5BMl5BanBnXkFtZTcwMDMyNDcyNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzkyNjIzMl5BMl5BanBnXkFtZTcwMDMyNDcyNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>What's Eating Gilbert Grape (1993)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0108550</imdb>
+                <title>What's Eating Gilbert Grape</title>
+                <year>1993</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2EyZDlhNjItODYzNi00Mzc3LWJjOWUtMTViODU5MTExZWMyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX674_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BY2EyZDlhNjItODYzNi00Mzc3LWJjOWUtMTViODU5MTExZWMyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX674_AL_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Ed Wood (1994)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0109707</imdb>
+                <title>Ed Wood</title>
+                <year>1994</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTA5ZjdjNWUtZGUwNy00N2RhLWJiZmItYzFhYjU1NmYxNjY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNTA5ZjdjNWUtZGUwNy00N2RhLWJiZmItYzFhYjU1NmYxNjY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Don Juan DeMarco (1994)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0112883</imdb>
+                <title>Don Juan DeMarco</title>
+                <year>1994</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRiMGM2ODgtN2Y1Zi00ODk5LThhOTItOWVkODM0YjAyZTI2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzRiMGM2ODgtN2Y1Zi00ODk5LThhOTItOWVkODM0YjAyZTI2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Dead Man (1995)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0112817</imdb>
+                <title>Dead Man</title>
+                <year>1995</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTJlZmQ1OTAtODQzZi00NGIzLWI1MmEtZGE4NjFlOWRhODIyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYTJlZmQ1OTAtODQzZi00NGIzLWI1MmEtZGE4NjFlOWRhODIyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</fanart>
+</item>
+
+<item>
+        <title>Nick of Time (1995)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0112817</imdb>
+                <title>Nick of Time</title>
+                <year>1995</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODg1ODNjMzItYjRkMS00NmExLTkxNWUtMWYwNWM2NDU1YzU1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,689,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODg1ODNjMzItYjRkMS00NmExLTkxNWUtMWYwNWM2NDU1YzU1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,689,1000_AL_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Donnie Brasco (1997)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0119008</imdb>
+                <title>Donnie Brasco</title>
+                <year>1997</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWQxOGQwY2QtMjcwMS00MDVhLTk3NDQtZjY0YzQ2OGRkNjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWQxOGQwY2QtMjcwMS00MDVhLTk3NDQtZjY0YzQ2OGRkNjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</fanart>
+</item>
+
+<item>
+        <title>The Brave (1997)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0118768</imdb>
+                <title>The Brave</title>
+                <year>1997</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGIwMzJhYWUtYTA5Ny00NWU4LTg3ZDAtNGNhMzI5MTA1MzUwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGIwMzJhYWUtYTA5Ny00NWU4LTg3ZDAtNGNhMzI5MTA1MzUwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</fanart>
+</item>
+
+
+
+
+

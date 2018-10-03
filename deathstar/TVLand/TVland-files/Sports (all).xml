@@ -1,0 +1,78 @@
+<dir>
+<name>PPV Boxing (Sports Devil needed for some streams)</name>
+<link>http://norestrictions.club/norestrictions.club/shepo/events.xml</link>
+<thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/boxing_gloves_red.png</thumbnail>
+</dir>
+
+<item>
+<title>Boxing 24/7 (Sports Devil)</title>
+<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cinestrenostv.tv/canales/deportes/boxnation.php</sublink>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/embed/boxnation.php?width=650&height=480</sublink>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://livetv-free.com/embed/box-nation.php</sublink>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/boxnation-live-stream-watch-boxnation-online-boxing-channel/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/k0RDNMJ.jpg</thumbnail>
+<fanart>http://i.imgur.com/KAMi61n.jpg</fanart>
+</item>
+
+
+<item>
+<title>V8 Racing</title>
+<link>
+<sublink>http://motorsport-eu.cf:8080/</sublink>
+<sublink>http://103.18.40.132:8080</sublink>
+<sublink>http://103.18.40.132:8081</sublink>
+<sublink>http://103.18.40.132:8082</sublink>
+<sublink>http://103.18.40.132:8084</sublink>
+</link>
+<thumbnail>http://www.campaignbrief.com/assets_c/2014/12/2%20-%20Hulsbosch%20-%20V8_Supercars-thumb-400x225-171591.jpg</thumbnail>
+</item>
+
+<plugin>
+<title>Reddit Soccer Streams</title>
+<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=soccerstreams&amp;url=https%3a%2f%2fwww.reddit.com%2fr%2fsoccerstreams%2f.json%3f%26limit%3d50</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>
+
+<plugin>
+<title>Reddit NBA Streams</title>
+<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=nbatreams&amp;url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnbastreams%2F.json%3F%26limit%3D50</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>
+
+
+<plugin>
+<title>Reddit NFL Streams</title>
+<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=nflstreams&amp;url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnflstreams%2F.json%3F%26limit%3D50</link>
+<thumbnail>https://pbs.twimg.com/profile_images/895807585303105537/_cvQ-STY_400x400.jpg</thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>
+
+
+
+<dir>
+<name>UK Sports</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/uk%20sport.xml</link>
+<thumbnail>https://www.flaginstitute.org/wp/wp-content/uploads/2016/06/uk2008.gif</thumbnail>
+</dir>
+
+<dir>
+<name>USA Sport</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/TVLand/TVland-files/usa%20sports.xml</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/be/7f/d2/be7fd2dcf6faac8813135ff491b19018--soccer-logo-usa-logo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Australian  Sport</name>
+<link>https://github.com/tdbnz123/community-playlists-new/raw/master/menu/livetv/tv%20land/files/Australia-sport</link>
+<thumbnail>https://cdn0.iconfinder.com/data/icons/world-cup-football-flags/512/B_-_Australia.png</thumbnail>
+</dir>
+
+
+

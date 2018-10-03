@@ -1,0 +1,107 @@
+
+
+
+<item>
+<title>Olympics Channel</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8</sublink>
+</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+<item>
+<title>****</title>
+<link>
+<sublink>http://www.egg.com</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>**Youtube Stream will only work in the following countires/or with VPN**</title>
+<link>
+<sublink>htt://</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bangladesh, Bhutan, India, Sri Lanka, Maldives, Nepal,  Pakistan</title>
+<link>
+<sublink>http://www.egg.com</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Olympics Youtube Stream **VPN Needed**</title>
+<link>https://www.youtube.com/watch?v=d-73-Cr0tQs</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>****</title>
+<link>
+<sublink>http://www.egg.com</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>TSN 1 -Live olympics</title>
+<link>
+<sublink>http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/451.ts|User-Agent=AppleCoreMedia12341</sublink>
+</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBC -Live olympics (Canada IP needed)</title>
+<link>
+<sublink>https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8</sublink>
+</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>BBC  -Live olympics</title>
+<link>
+<sublink>http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/22.ts|User-Agent=AppleCoreMedia12341(BBC ONE UK Non Geoblocked)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8(BBC One UK Geoblocked)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8(BBC One London UK Geoblocked)</sublink>
+<sublink>http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/23.ts|User-Agent=AppleCoreMedia12341(BBC Two UK Non Geoblocked)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8(BBC TWO Geoblocked)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8(BBC two Soctland Geoblocked)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8(UK BBC Redbutton Geoblocked)</sublink>
+</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>NBCSN/NBC -Live olympics</title>
+<link>
+<sublink>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</sublink>
+</link>
+<thumbnail>https://cnet1.cbsistatic.com/img/2abs0W_gA_M7JcxLyxASe5Fyp3s=/fit-in/370x0/2018/02/01/f991b1d0-79cc-4497-ab04-c194a18b336a/2000px-pyeongchang-2018-winter-olympics.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<dir>
+<name>Seven Network - Australia Shows Olympics</name>
+<link>https://github.com/tdbnz123/Community-Playlist-new/raw/master/olympics/7%20oylympics.xml</link>
+<thumbnail>http://tv.cramer.id.au/_/rsrc/1448188893207/australia/Seven.png</thumbnail>
+</dir>

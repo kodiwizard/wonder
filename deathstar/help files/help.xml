@@ -1,0 +1,104 @@
+Main Directories
+
+<dir>
+        <name></name>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+Movies
+
+<item>
+        <title></title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title></title>
+                <year></year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+TV Directories
+
+<dir>
+        <title></title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+TV Seasons
+
+<dir>
+        <name></name>
+        <meta>
+                <content>season</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+                <season></season>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+TV Episodes
+
+<item>
+        <title></title>
+        <meta>
+                <content>episode</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+                <title></title>
+                <premiered></premiered>
+                <season></season>
+                <episode></episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+Youtube Channels
+
+<plugin>
+  <title></title>
+  <link>plugin://plugin.video.youtube/channel/***CHANNEL NUMBER HERE***/playlists/</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</plugin>

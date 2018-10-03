@@ -1,0 +1,306 @@
+<!-- 
+list of Disney movies
+http://www.listchallenges.com/disney-movies -->
+
+
+<item>
+        <title>Snow White and the Seven Dwarfs (1937)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0029583</imdb>
+                <title>Snow White and the Seven Dwarfs</title>
+                <year>1937</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15972/p15972_p_v8_aa.jpg</thumbnail>
+        <fanart>http://www.gstatic.com/tv/thumb/movieposters/15972/p15972_p_v8_aa.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Pinocchio (1940)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0032910</imdb>
+                <title>Pinocchio</title>
+                <year>1940</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://cfile232.uf.daum.net/image/201E8B314C621843841E4B</thumbnail>
+        <fanart>http://cfile232.uf.daum.net/image/201E8B314C621843841E4B</fanart>
+</item>
+
+
+<item>
+        <title>Fantasia (1940)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0032455</imdb>
+                <title>Fantasia</title>
+                <year>1940</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://img2.wikia.nocookie.net/__cb20110715005424/disney/images/1/12/Fantasia-poster-1940.jpg</thumbnail>
+        <fanart>http://img2.wikia.nocookie.net/__cb20110715005424/disney/images/1/12/Fantasia-poster-1940.jpg</fanart>
+</item>
+
+
+<item>
+        <title>The Reluctant Dragon (1941)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0034091</imdb>
+                <title>The Reluctant Dragon</title>
+                <year>1941</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/6144/p6144_p_v8_aa.jpg</thumbnail>
+        <fanart>http://www.gstatic.com/tv/thumb/movieposters/6144/p6144_p_v8_aa.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Dumbo (1941)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0033563</imdb>
+                <title>Dumbo</title>
+                <year>1941</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://vignette3.wikia.nocookie.net/disney/images/a/a7/Dumbo-1941-poster.jpg/revision/latest?cb=20140629032112</thumbnail>
+        <fanart>https://vignette3.wikia.nocookie.net/disney/images/a/a7/Dumbo-1941-poster.jpg/revision/latest?cb=20140629032112</fanart>
+</item>
+
+
+<item>
+        <title>Bambi (1942)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0034492</imdb>
+                <title>Bambi</title>
+                <year>1942</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://arabseries.net/wp-content/uploads/2016/11/MV5BMTY1NzM4NDg5MV5BMl5BanBnXkFtZTgwMjI1MTkzMjE@._V1_-.jpg</thumbnail>
+        <fanart>https://arabseries.net/wp-content/uploads/2016/11/MV5BMTY1NzM4NDg5MV5BMl5BanBnXkFtZTgwMjI1MTkzMjE@._V1_-.jpg</fanart>
+</item>
+
+<item>
+        <title>Victory Through Air Power (1943)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0036497</imdb>
+                <title>Victory Through Air Power</title>
+                <year>1943</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/69/ef/f0/69eff031a5c59ff44ee9c737a5381981--disney-live-disney-s.jpg</thumbnail>
+        <fanart>https://s-media-cache-ak0.pinimg.com/736x/69/ef/f0/69eff031a5c59ff44ee9c737a5381981--disney-live-disney-s.jpg</fanart>
+</item>
+
+<item>
+        <title>Saludos Amigos (1942)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0036326</imdb>
+                <title>Saludos Amigos</title>
+                <year>1942</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://i.pinimg.com/736x/4f/4b/cb/4f4bcb6df34a73ffe486741d7b2e7fd5--disney-movie-posters-disney-movies.jpg</thumbnail>
+        <fanart>https://i.pinimg.com/736x/4f/4b/cb/4f4bcb6df34a73ffe486741d7b2e7fd5--disney-movie-posters-disney-movies.jpg</fanart>
+</item>
+
+<item>
+        <title>The Three Caballeros (1944)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0038166</imdb>
+                <title>The Three Caballeros</title>
+                <year>1944</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTYzMmFmNjYtYzJmMy00ZGViLTlkNjItYjMwYzA3ZjRkZTBkXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNTYzMmFmNjYtYzJmMy00ZGViLTlkNjItYjMwYzA3ZjRkZTBkXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Make Mine Music (1946)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0038166</imdb>
+                <title>Make Mine Music</title>
+                <year>1946</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjlhNWE3MjMtNTE4My00YzkwLTgyZWYtODkzZDRjNzA1YzliXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjlhNWE3MjMtNTE4My00YzkwLTgyZWYtODkzZDRjNzA1YzliXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Song of the South (1946)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0038969</imdb>
+                <title>Song of the South</title>
+                <year>1946</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NjA4Nzg2MF5BMl5BanBnXkFtZTcwNjE0NTg5Mw@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NjA4Nzg2MF5BMl5BanBnXkFtZTcwNjE0NTg5Mw@@._V1_.jpg</fanart>
+</item>
+
+<item>
+        <title>Fun & Fancy Free (1947)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0039404</imdb>
+                <title>Fun & Fancy Free</title>
+                <year>1947</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2VjYWFiZmYtZWVlYi00Y2RmLWFjNjktOGFhMDkyN2NlN2Q3XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SY1000_SX669_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BY2VjYWFiZmYtZWVlYi00Y2RmLWFjNjktOGFhMDkyN2NlN2Q3XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SY1000_SX669_AL_.jpg</fanart>
+</item>
+
+<item>
+        <title>So Dear to My Heart (1948)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0041890</imdb>
+                <title>So Dear to My Heart (1948)</title>
+                <year>1948</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://image.tmdb.org/t/p/w185/6r2nvEUw1x06BGXOnledUDWn54z.jpg</thumbnail>
+        <fanart>http://image.tmdb.org/t/p/w185/6r2nvEUw1x06BGXOnledUDWn54z.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>Melody Time (1948)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0040580</imdb>
+                <title>Melody Time</title>
+                <year>1948</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDhiMDQzYzYtNWVlMC00YzRkLTg4ZGItN2M2MGNjOTllNWVmXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDhiMDQzYzYtNWVlMC00YzRkLTg4ZGItN2M2MGNjOTllNWVmXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>The Adventures of Ichabod and Mr. Toad (1949)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0041094</imdb>
+                <title>The Adventures of Ichabod and Mr. Toad</title>
+                <year>1949</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjAzZDA2MWItZDdjMi00NTBlLTg5OTItYWQ1YTA1NGNiMGVhL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjAzZDA2MWItZDdjMi00NTBlLTg5OTItYWQ1YTA1NGNiMGVhL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
+</item>
+
+<item>
+        <title>Treasure Island (1950)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0043067</imdb>
+                <title>Treasure Island</title>
+                <year>1950</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTAxOTM4OF5BMl5BanBnXkFtZTYwOTk0NDk5._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTAxOTM4OF5BMl5BanBnXkFtZTYwOTk0NDk5._V1_.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>Cinderella (1950)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0042332</imdb>
+                <title>Cinderella</title>
+                <year>1950</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGY4OGExYWUtZWFiMC00YzUzLWE2MWEtODU0ZjM1ODE1MzFmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMGY4OGExYWUtZWFiMC00YzUzLWE2MWEtODU0ZjM1ODE1MzFmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Alice in Wonderland (1951)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0043274</imdb>
+                <title>Alice in Wonderland</title>
+                <year>1951</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1_SY1000_CR0,0,671,1000_AL_.jpg</fanart>
+</item>

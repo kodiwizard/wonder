@@ -1,0 +1,24 @@
+<item>
+<title>[COLOR white][B]M3U List Daily IPTV[/B][/COLOR] </title>title>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR darkorchid][B]Stream[/B][/COLOR][COLOR cyan][B]Unlimited[/B][/COLOR] [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
+<thumbnail>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/icon.png</thumbnail>
+<fanart>https://github.com/tdbnz123/repository.teamx/raw/master/plugin.video.live.blazingtv/fanart.jpg</fanart>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+

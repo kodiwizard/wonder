@@ -1,0 +1,32 @@
+
+<item>
+<title>MLB Network</title> 
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Pac 12 Network 1080P</title>
+<link>http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_4728_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Golf Channel</title>
+<link>
+<sublink>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</sublink>
+<sublink>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</sublink>
+</link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+</item>
+
+
+

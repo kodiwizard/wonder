@@ -1,0 +1,132 @@
+
+<item>
+<title>[COLOR gold] -=> OFFICAL SOURCES ONLY <=- [/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>TVNZ 1</title>
+<link>http://iptv.matthuisman.nz/nz/tv.9.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/782346989698555904/qil8eH3E.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVNZ 2</title>
+<link>http://iptv.matthuisman.nz/nz/tv.10.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TV 3</title>
+<link>https://livestreamdirect-three.mediaworks.nz/three-1500.m3u8</link>
+<thumbnail>http://cdn.mediaworks.co.nz/tv/Content/threenowassets/livestream/three-now-logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>Bravo</title>
+<link>https://livestreamdirect-bravo.mediaworks.nz/bravo-1500.m3u8</link>
+<thumbnail>http://cdn.mediaworks.co.nz/tv/Content/threenowassets/livestream/bravo-logo.png</thumbnail>
+</item>
+
+<item>
+<title>TVNZ Duke  </title>
+<link>https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/masterR_5.m3u8</link>
+<thumbnail>https://s19.postimg.org/tpixvcdoz/tvnz_duke.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Parliament TV  </title>
+<link>http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8</link>
+<thumbnail>https://www.parliament.nz/resource/en-NZ/00NZPHomeNews201305091/da8225b767bb4bffde13e6b216ebbdcf5e57ebd9</thumbnail>
+</item>
+
+
+
+<item>
+<title>Al Jazeera </title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8</link>
+<thumbnail>http://www.aljazeera.com/mrItems/Assets/Images/NewArticle/a-j-e-overlay-copy.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>The Edge</title>
+<link>https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/theedgetv_live_https/master.m3u8</link>
+<thumbnail>hhttp://cdn.mediaworks.co.nz/tv/Content/threenowassets/livestream/theedge-logo.png?v=0</thumbnail>
+</item>
+
+<item>
+<title>Wairarapa TV</title>
+<link>https://stream.wairarapatv.co.nz/playlist.m3u8</link>
+<thumbnail>https://static1.squarespace.com/static/572bee04a3360cc02e0c55fe/t/57806beeb3db2b8f171c0615/1501644869878/?format=1500w</thumbnail>
+</item>
+
+<item>
+<title>CTV TV8</title>
+<link>http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8</link>
+<thumbnail>http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ctv8.png?trim.threshold=1&w=400</thumbnail>
+</item>
+
+<item>
+<title>TV 33</title>
+<link>http://edge1.worldnettv.co.nz/live/tv33.stream/playlist.m3u8</link>
+<thumbnail>http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/33-tv.png?trim.threshold=1&w=400</thumbnail>
+</item>
+
+
+<item>
+<title>TVSN</title>
+<link>https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8</link>
+<thumbnail>https://en.wikipedia.org/wiki/TVSN#/media/File:Tvsn_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Shine TV</title>
+<link>http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist_w1926280642_b1280000.m3u8|X-Forwarded-For=101.100.88.88</link>
+<thumbnail>https://en.wikipedia.org/wiki/Shine_TV_(New_Zealand)#/media/File:ShineTV.png</thumbnail>
+</item>
+
+<item>
+<title>Firstlight</title>
+<link>rtmp://streamer1.streamhost.org/salive/GMIFLNL|X-Forwarded-For=101.100.88.88</link>
+<thumbnail>https://www.google.co.nz/imgres?imgurl=http%3A%2F%2Fwww.firstlight.org.nz%2Fstyles%2Fstandard%2Fsite%2Fimages%2Fsite%2Fbranding.png&imgrefurl=http%3A%2F%2Fwww.firstlight.org.nz%2F&docid=xEkZlyHsQYa8tM&tbnid=o6iKxhwG-QvNYM%3A&vet=1&w=331&h=210&bih=974&biw=1920&ved=0ahUKEwj9nIua157QAhVLtJQKHV5-B3EQMwgbKAAwAA&iact=mrc&uact=8</thumbnail>
+</item>
+
+
+<item>
+<title>Hope Channel International</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8</link>
+<thumbnail>https://en.wikipedia.org/wiki/Shine_TV_(New_Zealand)#/media/File:ShineTV.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Radio NZ National - Audio</title>
+<link>http://radionz-ice.streamguys.com/national.mp3</link>
+<thumbnail>http://www.radionz.co.nz/x/logos/rnz-1f117f9f2e66fb9e1c6c1f94daaffc079c4bee6bbfb68590bd63edce24b0dd17.svg</thumbnail>
+</item>
+
+<item>
+<title>Radio NZ Concert - Audio</title>
+<link>http://radionz-ice.streamguys.com/concert.mp3</link>
+<thumbnail>http://www.radionz.co.nz/x/logos/rnz-1f117f9f2e66fb9e1c6c1f94daaffc079c4bee6bbfb68590bd63edce24b0dd17.svg</thumbnail>
+</item>
+
+<item>
+<title>Radio NZ International - Audio</title>
+<link>http://radionz-ice.streamguys.com/international.mp3</link>
+<thumbnail>http://www.radionz.co.nz/x/logos/rnz-1f117f9f2e66fb9e1c6c1f94daaffc079c4bee6bbfb68590bd63edce24b0dd17.svg</thumbnail>
+</item>
+
